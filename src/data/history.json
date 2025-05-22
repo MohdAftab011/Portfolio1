@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "Indian Air Force",
+    "startDate": "June, 2025",
+    "endDate": "Present",
+    "experiences": ["N.A", "N.A"],
+    "imageSrc": "history/IAF.png"
+  },
+  {
+    "role": "Open Source Contributor",
+    "organisation": "GSSOC",
+    "startDate": "Oct, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Actively contributed to GirlScript Summer of Code 2024, collaborating on real-world open-source projects.", "Fixed bugs and added features across multiple repositories using JavaScript and other technologies."],
+    "imageSrc": "history/GSSOC.png"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "ShopSmart Analyzer",
+    "imageSrc": "projects/shopsmart.png",
+    "description": "A cutting-edge catalog quality assessment tool that evaluates product listings using over 7 key parameters, offering actionable insights for e-commerce vendors.",
+    "skills": ["HTML", "CSS", "JavaScript", "Node.js", "Next.js"],
+    "demo": "",
+    "source": "https://github.com/MohdAftab011"
+  },
+  {
+    "title": "SparkSpace",
+    "imageSrc": "projects/space.png",
+    "description": "A real-time collaborative workspace platform with messaging, reactions, subscription payments via Razorpay, and media uploads powered by AWS S3.",
+    "skills": ["React", "Express", "MongoDB", "Socket.io", "TailwindCSS", "Razorpay", "AWS"],
+    "demo": "https://spark-space-nw.vercel.app/",
+    "source": "https://github.com/MohdAftab011/SparkSpace-Frontend"
+  },
+  {
+    "title": "CryptoTracker",
+    "imageSrc": "projects/crypto.png",
+    "description": "A crypto tracker app that fetches real-time data for 7,500+ coins using CoinGecko API. Optimized for performance using Zustand and React Query.",
+    "skills": ["React.js", "Zustand", "React Query", "CoinGecko API"],
+    "demo": "https://github.com/MohdAftab011/Crypto-Tracker",
+    "source": "https://github.com/MohdAftab011"
+  },
+  {
+  "title": "Sheet Collab",
+  "imageSrc": "projects/sheetcollab.png",
+  "description": "Real-time collaboration platform with instant updates, version control, and support for advanced calculations including row, cell, and mathematical operations like addition, subtraction, multiplication, and division.",
+  "skills": ["Next.js", "TailwindCSS", "Node.js", "Express", "Socket.io"],
+  "demo": "https://sheet-collab.vercel.app/",
+  "source": "https://github.com/MohdAftab011/sheet-collab"
+}
+]
