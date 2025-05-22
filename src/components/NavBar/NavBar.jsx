@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import styles from "./Navbar.module.css";
+import styles from "./NavBar.module.css";
 import menuIcon from "../../assets/nav/menuIcon.png";
 import closeIcon from "../../assets/nav/closeIcon.png";
 
