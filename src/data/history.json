@@ -4,7 +4,10 @@
     "organisation": "Indian Air Force",
     "startDate": "June, 2025",
     "endDate": "Present",
-    "experiences": ["N.A", "N.A"],
+    "experiences": [" Developed a full-stack drone classification platform leveraging telemetry features (RCS, speed, altitude, etc.), benchmarking
+ML models (KNN, SVM, Random Forest, XGBoost) on 800K+ readings to achieve 93% accuracy, with integrated
+LIME/SHAP for model explainability " , "Built a scalable Flask backend to process 1000+ drone profiles daily and streamlined React.js dashboards, improving state
+management for 30% faster load times."],
     "imageSrc": "history/IAF.png"
   },
   {
